@@ -16,6 +16,7 @@ public final class Main {
 
   System.out.println("Yo");
   // HELLO THERE!
+// HELLO
   /**
    * Main initialization function. Do not perform any initialization here.
    *
